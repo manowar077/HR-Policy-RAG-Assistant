@@ -5,4 +5,12 @@ langchain-community
 ## LLM provider
 langchain-mistralai
 
-langchain-text-splitters
+langchain-text-splitters  
+
+#VECTOR STORE
+faiss-cpu
+
+#web
+streamlit
+
+python-dotenv
